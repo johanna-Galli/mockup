@@ -1,0 +1,115 @@
+/*******COULEURS :*********
+
+rouge = color: #d31f44;
+gris = color: #3e3e3e;
+
+**************************/
+
+/**********FONTS**********/
+
+@font-face {
+    font-family: "OpenSans-Bold" ;
+    src: url(../font/Open_sans_font/OpenSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-Bolditalic";
+    src: url(../font/Open_sans_font/OpenSans-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-ExtraBold";
+    src: url(../font/Open_sans_font/OpenSans-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-ExtraBolditalic";
+    src: url(../font/Open_sans_font/OpenSans-ExtraBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-italic";
+    src: url(../font/Open_sans_font/OpenSans-Italic.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-Light";
+    src: url(../font/Open_sans_font/OpenSans-Light.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-Lightitalic";
+    src: url(../font/Open_sans_font/OpenSans-LightItalic.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-Regular";
+    src: url(../font/Open_sans_font/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-SemiBold";
+    src: url(../font/Open_sans_font/OpenSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "OpenSans-SemiBolditalic";
+    src: url(../font/Open_sans_font/OpenSans-SemiBoldItalic.ttf);
+}
+
+
+/*******************************HEADER*************************************************/
+
+/*******************************HEADER FIN*********************************************/
+
+
+/*******************************GEN****************************************************/
+
+/*******************************GEN FIN************************************************/
+
+
+/*******************************Un enseignement adapté*********************************/
+
+/*******************************Un enseignement adapté FIN*****************************/
+
+
+/*******************************A chacun son métier************************************/
+
+/*******************************A chacun son métier FIN********************************/
+
+
+/*******************************A chacun son projet************************************/
+
+/*******************************A chacun son projet FIN********************************/
+
+
+/*******************************Titre pro**********************************************/
+
+/*******************************Titre pro FIN******************************************/
+
+
+/*******************************Nos centres de formation*******************************/
+
+/*******************************Nos centres de formation FIN***************************/
+
+/*******************************Témoignages********************************************/
+
+/*******************************Témoignages FIN****************************************/
+
+/*******************************Contact************************************************/
+
+/*******************************Contact FIN********************************************/
+
+/*******************************Logos**************************************************/
+
+/*******************************Logos FIN**********************************************/
+
+
+/*******************************Footer*************************************************/
+
+/*******************************Footer FIN*********************************************/
+
+
+
+
+

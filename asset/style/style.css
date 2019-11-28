@@ -67,18 +67,46 @@ header {
     color: white;
 }
 
-.menu-header   {
-    background-color: black;
-    opacity: 50%;
-    height: 90px;
+#bg-menu-header {
+    background-image: url(../img/bg-menu-header.png);
+    min-height: 90px;
     font-family: "OpenSans-SemiBold";
     border-bottom: solid 1px white;
 }
 
-#header-logo-acs {
-    height: 44px;
-    width: 175px;
+
+
+.d-inline-flex {
+    margin: 0;
+    padding: 0;
 }
+.d-inline-flex li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.d-inline-flex li a {
+    padding: 39px 25px;
+    text-decoration: none;
+    color: white;
+}
+
+.d-inline-flex li a:hover {
+    color: #d31f44;
+}
+
+#inscription {
+    text-decoration: none;
+    color: white;
+    background-color: #d31f44;
+    padding: 38px 24px;
+    border: solid 1px #d31f44;
+}
+
+#inscription:hover {
+    border: solid 1px white;
+}
+
 
 .container .titre-menu .d-flex h1 {
     font-family: "OpenSans-SemiBold";

@@ -68,7 +68,6 @@ header {
     color: white;
 }
 
-
 /**menu du header**/
 
 #menu-header {
@@ -162,6 +161,27 @@ header {
 
 
 /*******************************A chacun son métier************************************/
+
+.main-metier {
+    background-color: #3e3e3e;
+}
+
+.text-metier H3 {
+    color: white;
+    font-family: "OpenSans-SemiBold";
+}
+.paragraph-metier {
+    font-family: "OpenSans-Regular";
+    color: white;
+}
+
+.paragraph-bold {
+    font-family: "OpenSans-Bold" ;
+}
+
+
+
+
 
 /*******************************A chacun son métier FIN********************************/
 

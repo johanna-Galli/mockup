@@ -15,7 +15,7 @@ Irina :
 
 
 Johanna :
-- Header
+- ~~Header~~
 - A chacun son métier
 - A chacun son projet
 - Témoignages

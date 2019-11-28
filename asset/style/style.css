@@ -63,24 +63,35 @@ gris = color: #3e3e3e;
 
 /*******************************GEN****************************************************/
 
-.img-gen {
+#title-gen {
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 68px;
+}
 
+.img-line-gen {
     text-align: center;
     line-height: 10px;
     font-size: 0;
 }
-.container {
 
-
-}  
-#title-gen {
-    text-transform: uppercase;
+.img-logo-gen {
     text-align: center;
+    padding-top: 68px;
 }
 
-#gen-ligne {
+.col-gauche {
+    padding-top: 134px;
+    text-align: right;
+    margin-right: 23px;
+}
 
-    align-items: center;}
+.col-droite {
+    padding-top: 106px;
+    margin-left: 25px;
+}
+
+.container {}
 
 /*******************************GEN FIN************************************************/
 

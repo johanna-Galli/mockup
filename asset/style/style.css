@@ -62,13 +62,25 @@ gris = color: #3e3e3e;
 /*******************************HEADER FIN*********************************************/
 
 /*******************************GEN****************************************************/
+
+.img-gen {
+
+    text-align: center;
+    line-height: 10px;
+    font-size: 0;
+}
 .container {
 
 
 }  
 #title-gen {
     text-transform: uppercase;
+    text-align: center;
 }
+
+#gen-ligne {
+
+    align-items: center;}
 
 /*******************************GEN FIN************************************************/
 

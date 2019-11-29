@@ -16,7 +16,7 @@ Irina :
 
 Johanna :
 - ~~Header~~
-- A chacun son métier
+- ~~A chacun son métier~~
 - A chacun son projet
 - Témoignages
 - Contact

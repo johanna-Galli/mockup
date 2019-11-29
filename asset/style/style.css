@@ -164,23 +164,54 @@ header {
 
 .main-metier {
     background-color: #3e3e3e;
+    height: auto;
 }
 
-.text-metier H3 {
+.text-metier {
     color: white;
-    font-family: "OpenSans-SemiBold";
 }
+
+#titre-video {
+    font-family: "OpenSans-SemiBold";
+    margin-top: 56px;
+    font-size: 30px;
+}
+
+#trait-blanc-video {
+    margin: 15px 0px 40px 0px;
+}
+
 .paragraph-metier {
     font-family: "OpenSans-Regular";
-    color: white;
+    margin: 0;
+    font-size: 13px;
 }
 
 .paragraph-bold {
-    font-family: "OpenSans-Bold" ;
+    font-family: "OpenSans-Bold";
+    margin: 0;
 }
 
+#paragraph-bas-metier {
+    margin-bottom: 40px;
+}
 
+#bouton-metier {
+    padding: 18px 57px;
+    border: solid 2px white;
+    text-decoration: none;
+    color: white;
+}
 
+#bouton-metier:hover {
+    border: solid 2px #d31f44;
+    background-color: #d21e43;
+}
+
+#video-metier {
+    margin: 116px 0px;
+    padding: 0;
+}
 
 
 /*******************************A chacun son métier FIN********************************/

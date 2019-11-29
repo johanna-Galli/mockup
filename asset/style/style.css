@@ -219,6 +219,26 @@ header {
 
 /*******************************A chacun son projet************************************/
 
+.main-projet {
+    height: 453px;
+}
+
+#img-projet img {
+    height: 306px;
+    width: 100%;
+    margin-top: 79px;
+}
+
+.column-right {
+    margin-top: 68px;
+}
+
+.column-right h3 {
+    font-family: "OpenSans-SemiBold";
+    font-size: 30px;
+}
+
+
 /*******************************A chacun son projet FIN********************************/
 
 

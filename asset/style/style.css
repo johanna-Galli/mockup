@@ -63,6 +63,10 @@ gris = color: #3e3e3e;
 
 /*******************************GEN****************************************************/
 
+#main-gen {
+    height: 450px;
+}
+
 #title-gen {
     text-transform: uppercase;
     text-align: center;
@@ -75,23 +79,44 @@ gris = color: #3e3e3e;
     font-size: 0;
 }
 
-.img-logo-gen {
-    text-align: center;
+.grid-gen {
+    display: grid;
+    grid-template-columns: 40% 20% 40%;
+}
+
+#img-logo-gen {
     padding-top: 68px;
 }
 
-.col-gauche {
+#col-gauche {
     padding-top: 134px;
     text-align: right;
-    margin-right: 23px;
+    font-size: 13px;
 }
 
-.col-droite {
+#col-droite {
     padding-top: 106px;
-    margin-left: 25px;
+    font-size: 13px;
 }
 
-.container {}
+ul {
+    list-style: none;
+}
+
+li::before {
+    content: "";
+    width: 10px;
+    height: 13px;
+    margin-right: 3px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #d31f44;
+    display: inline-block;
+    width: 1em;
+    margin-left: -3em
+}
+
+}
 
 /*******************************GEN FIN************************************************/
 

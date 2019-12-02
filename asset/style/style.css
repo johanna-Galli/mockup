@@ -347,19 +347,54 @@ header {
 .main-temoignages {
     background-image: url(../img/bg-temoignages.png);
     color: white;
+    height: 603px;
+}
+
+.header-temoignages {
+    padding-top: 70px;
 }
 
 .header-temoignages h3 {
     font-family: "OpenSans-SemiBold";
+    font-size: 30px;
 }
 
 .header-temoignages h3 span{
     border-bottom: 3px solid #ffffff;
-    border-image: linear-gradient(to right, #ffffff, #3e3e3e) 1;
+    border-image: linear-gradient(to right, #ffffff, #0f0f0f) 1;
     padding-bottom: 29px;
 }
 
+#paragraph-temoignage {
+    font-family: "OpenSans-Light";
+    font-size: 1.375rem;
+    margin-top: 98px;
+    margin-bottom: 0px;
+}
 
+#paragraph-2-temoignage {
+    margin: 64px 0px;
+    font-family: "OpenSans-Regular";
+    font-size: 22px;
+}
+
+#paragraph-2-temoignage span {
+    font-family: "OpenSans-Bold";
+}
+
+#bouton-temoignage {
+    text-decoration: none;
+    color: white;
+    border: solid 2px white;
+    padding: 17px 27px;
+    size: auto;
+    box-sizing: border-box;
+}
+
+#bouton-temoignage:hover {
+    background-image: linear-gradient(90deg, rgb(210, 31, 68) 0%, rgb(156, 0, 32) 100%);
+    border: solid 2px transparent;
+}
 
 /*******************************Témoignages FIN****************************************/
 

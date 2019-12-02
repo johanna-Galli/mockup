@@ -8,7 +8,7 @@ gris = color: #3e3e3e;
 /**********FONTS**********/
 
 @font-face {
-    font-family: "OpenSans-Bold" ;
+    font-family: "OpenSans-Bold";
     src: url(../font/Open_sans_font/OpenSans-Bold.ttf);
 }
 
@@ -56,7 +56,6 @@ gris = color: #3e3e3e;
     font-family: "OpenSans-SemiBolditalic";
     src: url(../font/Open_sans_font/OpenSans-SemiBoldItalic.ttf);
 }
-
 
 /*******************************HEADER*************************************************/
 
@@ -149,16 +148,66 @@ header {
 
 /*******************************HEADER FIN*********************************************/
 
-
 /*******************************GEN****************************************************/
 
-/*******************************GEN FIN************************************************/
+#main-gen {
+    height: 450px;
+}
 
+#title-gen {
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 68px;
+}
+
+.img-line-gen {
+    text-align: center;
+    line-height: 10px;
+    font-size: 0;
+}
+
+.grid-gen {
+    display: grid;
+    grid-template-columns: 40% 20% 40%;
+}
+
+#img-logo-gen {
+    padding-top: 68px;
+}
+
+#col-gauche-gen {
+    padding-top: 134px;
+    text-align: right;
+    font-size: 13px;
+}
+
+#col-droite-gen {
+    padding-top: 106px;
+    font-size: 13px;
+}
+
+#ul-gen {
+    list-style: none;
+}
+
+#ul-gen li::before {
+    content: "";
+    width: 10px;
+    height: 13px;
+    margin-right: 3px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #d31f44;
+    display: inline-block;
+    width: 1em;
+    margin-left: -3em
+}
+
+/*******************************GEN FIN************************************************/
 
 /*******************************Un enseignement adapté*********************************/
 
 /*******************************Un enseignement adapté FIN*****************************/
-
 
 /*******************************A chacun son métier************************************/
 
@@ -216,16 +265,13 @@ header {
 
 /*******************************A chacun son métier FIN********************************/
 
-
 /*******************************A chacun son projet************************************/
 
 /*******************************A chacun son projet FIN********************************/
 
-
 /*******************************Titre pro**********************************************/
 
 /*******************************Titre pro FIN******************************************/
-
 
 /*******************************Nos centres de formation*******************************/
 
@@ -243,12 +289,6 @@ header {
 
 /*******************************Logos FIN**********************************************/
 
-
 /*******************************Footer*************************************************/
 
 /*******************************Footer FIN*********************************************/
-
-
-
-
-

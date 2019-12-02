@@ -344,6 +344,23 @@ header {
 
 /*******************************Témoignages********************************************/
 
+.main-temoignages {
+    background-image: url(../img/bg-temoignages.png);
+    color: white;
+}
+
+.header-temoignages h3 {
+    font-family: "OpenSans-SemiBold";
+}
+
+.header-temoignages h3 span{
+    border-bottom: 3px solid #ffffff;
+    border-image: linear-gradient(to right, #ffffff, #3e3e3e) 1;
+    padding-bottom: 29px;
+}
+
+
+
 /*******************************Témoignages FIN****************************************/
 
 /*******************************Contact************************************************/

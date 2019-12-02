@@ -6,7 +6,7 @@ PROJET 3 intégration
 Répartition des taches :
 
 Irina :
-- GEN
+- ~~GEN~~
 - Un enseignement adapté
 - Titre pro
 - Nos centres de formation
@@ -17,6 +17,6 @@ Irina :
 Johanna :
 - ~~Header~~
 - ~~A chacun son métier~~
-- A chacun son projet
+- ~~A chacun son projet~~
 - Témoignages
 - Contact

@@ -18,5 +18,5 @@ Johanna :
 - ~~A chacun son métier~~
 - ~~A chacun son projet~~
 - ~~Titre pro~~
-- Témoignages
+- ~~Témoignages~~
 - Contact

@@ -319,6 +319,23 @@ header {
 
 /*******************************Titre pro**********************************************/
 
+.main-titre-pro {
+    background-image: url(../img/bg-titrepro.png);
+    height: 296px;
+    padding-top: 5.37rem;
+}
+
+.text-titre-pro {
+    color: white;
+    text-align: center;
+    font-family: "OpenSans-Regular";
+    margin: auto;
+}
+
+.text-titre-pro span {
+    font-family: "OpenSans-Bold";
+}
+
 /*******************************Titre pro FIN******************************************/
 
 /*******************************Nos centres de formation*******************************/

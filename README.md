@@ -8,7 +8,6 @@ Répartition des taches :
 Irina :
 - ~~GEN~~
 - Un enseignement adapté
-- Titre pro
 - Nos centres de formation
 - Logos 
 - Footer
@@ -18,5 +17,6 @@ Johanna :
 - ~~Header~~
 - ~~A chacun son métier~~
 - ~~A chacun son projet~~
+- ~~Titre pro~~
 - Témoignages
 - Contact

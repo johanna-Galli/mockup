@@ -88,22 +88,22 @@ gris = color: #3e3e3e;
     padding-top: 68px;
 }
 
-#col-gauche {
+#col-gauche-gen {
     padding-top: 134px;
     text-align: right;
     font-size: 13px;
 }
 
-#col-droite {
+#col-droite-gen {
     padding-top: 106px;
     font-size: 13px;
 }
 
-ul {
+#ul-gen {
     list-style: none;
 }
 
-li::before {
+#ul-gen li::before {
     content: "";
     width: 10px;
     height: 13px;
@@ -114,8 +114,6 @@ li::before {
     display: inline-block;
     width: 1em;
     margin-left: -3em
-}
-
 }
 
 /*******************************GEN FIN************************************************/

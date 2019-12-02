@@ -267,6 +267,54 @@ header {
 
 /*******************************A chacun son projet************************************/
 
+.main-projet {
+    height: 453px;
+}
+
+#img-projet img {
+    height: 306px;
+    width: 100%;
+    margin-top: 79px;
+}
+
+.column-right-projet {
+    margin-top: 70px;
+}
+
+.column-right-projet h3 {
+    font-family: "OpenSans-SemiBold";
+    font-size: 1.875rem;
+    margin-top: 3px;
+    margin-bottom: 15px;
+}
+
+.column-right-projet p {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.column-right-projet ul {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style: none;
+    padding: 0;
+}
+
+.column-right-projet ul li {
+    font-size: 0.875rem;
+}
+
+.column-right-projet ul li::before {
+    content: "";
+    width: 10px;
+    height: 10px;
+    margin-right: 3px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #D31F44;
+    display: inline-block
+}
+
+
 /*******************************A chacun son projet FIN********************************/
 
 /*******************************Titre pro**********************************************/

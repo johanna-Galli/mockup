@@ -349,7 +349,6 @@ header {
     display: inline-block
 }
 
-
 /*******************************A chacun son projet FIN********************************/
 
 /*******************************Titre pro**********************************************/
@@ -375,6 +374,37 @@ header {
 
 /*******************************Nos centres de formation*******************************/
 
+.main-centres {
+    height: 833px;
+}
+
+#title-centres {
+    text-transform: uppercase;
+    /*text-align: left;*/
+    padding-top: 55px;
+    font-family: "OpenSans-SemiBold";
+    font-size: 30px;
+}
+
+.img-line-centres {
+    /*text-align: left;*/
+    line-height: 10px;
+    font-size: 0;
+    padding: 3px;
+}
+
+.portfilio-centres {
+    padding-top: 63px;
+}
+
+.portfilio-centres a {
+    margin-bottom: 33px;
+}
+
+.justify-content-between {
+    margin: 0px;
+}
+
 /*******************************Nos centres de formation FIN***************************/
 
 /*******************************Témoignages********************************************/
@@ -394,7 +424,7 @@ header {
     font-size: 30px;
 }
 
-.header-temoignages h3 span{
+.header-temoignages h3 span {
     border-bottom: 3px solid #ffffff;
     border-image: linear-gradient(to right, #ffffff, #0f0f0f) 1;
     padding-bottom: 29px;

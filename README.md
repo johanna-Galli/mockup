@@ -7,7 +7,7 @@ Répartition des taches :
 
 Irina :
 - ~~GEN~~
-- Un enseignement adapté
+- ~~Un enseignement adapté~~
 - Nos centres de formation
 - Logos 
 - Footer

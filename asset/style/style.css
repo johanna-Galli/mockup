@@ -418,10 +418,47 @@ header {
     padding-bottom: 29px;
 }
 
-form {
-    margin-top: 108px;
+.form-row {
+    padding-right: 0;
+}
+.inputs {
+    padding: 0px;
+    border: 0px;
+    border-radius: 0;
+    border-bottom: solid 1px white;
+    background: transparent;
 }
 
+.inputs::placeholder {
+    color: white;
+    margin: 0;
+}
+
+.inputs:focus {
+    background: transparent;
+}
+
+#text-contact {
+    font-family: "OpenSans-Regular";
+    font-size: 14px;
+}
+
+#text-contact span {
+    font-family: "OpenSans-Bold";
+    font-size: 14px;
+}
+
+#message {
+    border-radius: 0;
+    background: transparent;
+}
+
+#button-contact {
+    border: none;
+    color: #a30827;
+    background-color: white;
+    padding: 20px 73px;
+}
 
 
 /*******************************Contact FIN********************************************/

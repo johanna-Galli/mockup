@@ -258,60 +258,69 @@
 
         <!-------------------------Contact------------->
         <div class="main-contact">
-            <div class="container">
+            <div class="container h-100">
 
-                <h3 id="title-contact"><span>CONTACT</span></h3>
+                <h3 id="title-contact" class="h-25"><span>CONTACT</span></h3>
 
-                <form action="#">
-                    <div class="row">
-                        <div class="col">
+                <form action="" class="h-75 ">
+
+                    <div class="d-flex">
+
+                        <div class="col-6 justify-content-start pl-0">
                             <div class="form-row">
-                                <!--nom-->
-                                <div class="form-group col">
-                                    <label for="">NOM *</label>
-                                    <input type="text">
+                                <div class="form-group col-md-6 ">
+                                    <input type="text" class="form-control inputs" id="name"
+                                        placeholder="NOM *" />
                                 </div>
-                                <!--prenom-->
-                                <div class="form-group col">
-                                    <label for="">PRÉNOM *</label>
-                                    <input type="text">
+                                <div class="form-group col-md-6">
+                                    <input type="text" class="form-control inputs" id="surname"
+                                        placeholder="PRÉNOM *" />
                                 </div>
                             </div>
-
-                            <div class="form-row">
-                                <!--email-->
-                                <div class="form-group col-6">
-                                    <label for="">EMAIL *</label>
-                                    <input type="email">
-                                </div>
+                            <div class="form-group">
+                                <input type="email" class="form-control inputs" id="inputEmail"
+                                    placeholder="EMAIL *" />
                             </div>
-
                             <div class="form-row">
-                                <!--code postal-->
-                                <div class="form-group col">
-                                    <label for="">CODE POSTAL *</label>
-                                    <input type="text">
+                                <div class="form-group col-md-6">
+                                    <input type="text" class="form-control inputs" id="code_postal"
+                                        placeholder="CODE POSTAL *" />
                                 </div>
-                                <!--ville-->
-                                <div class="form-group col">
-                                    <label for="">VILLE *</label>
-                                    <input type="text">
+                                <div class="form-group col-md-6">
+                                    <input type="text" class="form-control inputs" id="town"
+                                        placeholder="VILLE *" />
                                 </div>
                             </div>
                         </div>
-                        <div class="col">
-                            <p>
-                                Devenez un professionnel du web et rejoignez une communauté d’élèves motivés aux
-                                parcours différents. Les inscriptions sont ouvertes.<br><br>
-                                Prochaines promotions courant 2018, <span>inscrivez-vous dès maintenant !</span>
-                            </p>
+
+
+                        <div class="col-lg-6 contact_text justify-content-end pr-0 align-self-center">
+                            <p id="text-contact">
+                                Devenez un professionnel du web et rejoignez une
+                                communauté d’élèves motivés aux parcours différents.
+                                Les inscriptions sont ouvertes. Prochaines promotions
+                                courant 2018, inscrivez-vous dès maintenant ! <br> <br>
+                                Prochaines promotions courant 2018, <span>inscrivez-vous
+                                        dès maintenant !</span>
+                            </p>                           
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-lg-12 p-0">
+                        <div class="form-group padding-border">
+                            <label for="message">MESSAGE *</label>
+                            <textarea class="form-control" id="message" rows="10"></textarea>
+                        </div>
+                        <div class="col text-center">
+                            <button type="button" id="button-contact">
+                                Envoyer
+                            </button>
                         </div>
                     </div>
 
                 </form>
-
-
-
             </div>
         </div>
         <!-------------------------Contact FIN------------->
